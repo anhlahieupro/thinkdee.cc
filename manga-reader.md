@@ -1,3 +1,5 @@
+# Manga Reader
+
 **DISCLAIMER**
 
 Manga Reader is an image reader that collects and organizes content provided by the web.
