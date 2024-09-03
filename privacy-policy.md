@@ -43,7 +43,7 @@ We take reasonable steps to protect the information we collect and store from un
 
 We may update this policy periodically. In the event of significant changes, we will notify you via email or through our app. By continuing to use our app, you agree to the revised policy.
 
-### MORE
+### More
 
 [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
