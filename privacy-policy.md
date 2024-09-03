@@ -43,4 +43,8 @@ We take reasonable steps to protect the information we collect and store from un
 
 We may update this policy periodically. In the event of significant changes, we will notify you via email or through our app. By continuing to use our app, you agree to the revised policy.
 
-Last updated: 29 Jul, 2023
+### MORE
+
+[Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
+
+Last updated: 3 Sep, 2024

@@ -9,3 +9,4 @@ Apple offers in-app purchases for various subscription periods including weekly,
 5. Usage Rights: By purchasing an in-app subscription, you are granted the usage rights to access the content and features provided by the subscription for the duration of the subscription period.
 6. Changes: Apple reserves the right to modify or discontinue in-app purchases at any time without notice.
 7. Contact: If you have any questions or concerns regarding your in-app purchase, please contact Apple Support.
+8. [Apple Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
