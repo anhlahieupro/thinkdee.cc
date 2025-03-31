@@ -2,34 +2,46 @@
 
 **DISCLAIMER**
 
-Manga Reader is an image reader that collects and organizes content provided by the web.
+Manga Reader is an image viewer that aggregates and organizes content provided by external websites. By using Manga Reader, you acknowledge and agree to the following terms and conditions:
 
-Manga Reader does not offer any warranties, express or implied, and hereby disclaims and negates all other warranties, including but not limited to implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or any other violation of rights. Furthermore, Manga Reader does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or in relation to such materials or on any sites linked to this site.
+Content Ownership:
+Manga Reader does not host, store, or upload any copyrighted content. All images and materials accessed through Manga Reader are sourced from publicly available websites and external services. The ownership of these images and materials remains with their respective copyright holders.
 
-Manga Reader may automatically block content that does not meet the required standards.
+Third-Party Content:
+The content displayed within Manga Reader is provided by third parties, including translator communities and fans from various websites. Manga Reader serves solely as a tool to facilitate viewing this content and does not modify, endorse, or claim ownership of the content.
 
-Manga Reader does not guarantee the availability of the content as it is provided by third parties. The content is provided by translator communities and/or fans of different websites, and Manga Reader serves as an interpreter of this content.
+Copyright Infringement:
+Manga Reader respects intellectual property rights. If you believe that any content accessible through Manga Reader infringes upon your copyright, please contact us with a detailed request for removal, including evidence of ownership and the specific content in question. We will review and take appropriate action if necessary.
 
-Manga Reader only allows you to retrieve images from websites for your reading convenience. Manga Reader does not host any service or content that violates copyright.
+Liability Limitation:
+Manga Reader provides the service "as is" without any warranties, express or implied. Manga Reader disclaims all responsibility and liability for any issues, damages, or losses arising from the use or inability to use the service, including but not limited to data loss, financial loss, or damage to personal property.
 
-The sources of the content are the responsibility of the users, and Manga Reader may block them if they violate our terms and conditions.
+Content Availability:
+Manga Reader does not guarantee the availability, accuracy, or reliability of the content provided by third parties. Content availability is subject to change or removal by the original content providers.
 
-This website aggregates content from other sources for informational purposes and does not intend to infringe upon copyright or the business of any entities.
+Automatic Content Blocking:
+Manga Reader may automatically block or filter content that does not meet our standards or violates our terms and conditions. However, Manga Reader does not guarantee complete or continuous content moderation.
 
-The images are the property of their respective copyright holders. Whenever possible, the corresponding accreditation is provided. Due to alterations of the images, ownership of many of them cannot be verified. In cases where ownership is known, the appropriate credit is given.
-
+User Responsibility:
+Users are fully responsible for their use of Manga Reader and must ensure compliance with all applicable guidelines and policies. Manga Reader does not take responsibility for how users interact with the content accessed through the app.
 
 **PRIVACY & TERMS**
 
-By using our service, users confirm their acceptance of our Terms, Privacy Policy, and other policies, rules, or codes of conduct related to the use of our service. Manga Reader is an image reader that collects and organizes content provided by the web.
+By using Manga Reader, you confirm your acceptance of our Terms of Service, Privacy Policy, and any other policies, rules, or guidelines related to the use of our service. If you do not agree with these terms, please discontinue use of the service immediately.
 
-It is important to mention that the content is NOT owned by Manga Reader; Manga Reader only facilitates its visualization. The content is provided by the website and/or its users.
+Third-Party Websites and Services:
+Manga Reader may provide access to content from third-party websites. Manga Reader is not responsible for the content, privacy practices, or services provided by these external websites. Any interactions with third-party websites are solely at your own risk.
 
-Manga Reader has no control over the content and assumes no responsibility for the content, privacy policies, or practices of third-party websites or services. Furthermore, you acknowledge and agree that Manga Reader will not be liable or obligated, directly or indirectly, for any damage or loss caused or allegedly caused by or in connection with the use or reliance on any content, goods, or services available through any such websites or services.
+Data Collection and Privacy:
+Manga Reader does not collect, store, or share personal data of its users. However, external websites accessed through Manga Reader may have their own privacy policies and data collection practices. Users are advised to review the privacy policies of external websites.
 
-Manga Reader does not guarantee the availability of the content as it is provided by third parties. Translator communities and/or fans of different websites provide the content, and Manga Reader only serves as an interpreter of this content.
+Content Standards:
+Manga Reader reserves the right to block, filter, or remove content that violates our terms and conditions, including but not limited to content that is illegal, infringes on intellectual property rights, or is deemed inappropriate.
 
+Age Requirement:
+You must be at least 18 years old or have the consent of a parent or legal guardian to use Manga Reader. Manga Reader is not intended for use by children under 18. If you are under 18, please do not use this service.
 
-**Recommended Age**
+Modifications to Terms:
+Manga Reader reserves the right to modify these terms and conditions at any time without prior notice. Your continued use of the service after changes are made constitutes your acceptance of the new terms.
 
-You must affirm that you are at least eighteen (18) years of age, an emancipated minor, or have the consent of your guardian or legal tutor, and that you are fully capable of accepting the aforementioned terms in our terms. If you are under eighteen (18) years of age, please do not use the service.
+For any copyright concerns or inquiries, please contact us via the email provided above.
