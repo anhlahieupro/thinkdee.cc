@@ -9,6 +9,12 @@ body {
     border: 1px solid #ccc;
 }
 
+.container2 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
 .detail {
     display: flex;
 }
