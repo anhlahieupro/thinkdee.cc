@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="images"></div>
+    </div>
+
+    <script>
+        const imagesContainer = document.getElementById("images");
+        for (let i = 1; i <= 10; i++) {
+            const img = document.createElement("img");
+            img.src = `https://placehold.co/400x600?text=Image+${i}`;
+            img.alt = `Image ${i}`;
+            imagesContainer.appendChild(img);
+        }
+    </script>
+</body>
+
+</html>
