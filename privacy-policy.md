@@ -20,6 +20,7 @@ We utilize several main third-party services, including:
 - Hive
 - Device Info Plus
 - In-App Purchase
+- Revenuecat
 
 These services collect data regarding your app usage, including information about your device, and app activity.
 
@@ -47,4 +48,4 @@ We may update this policy periodically. In the event of significant changes, we 
 
 [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
-Last updated: 3 Sep, 2024
+Last updated: 3 Jan, 2026
